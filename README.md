@@ -9,7 +9,7 @@ This is an Material Design Lite Theme for Golden Layout. The purpose of this pro
 Click here for a [demo](http://plnkr.co/edit/mc0sVv?p=preview)
 
 See Also: 
-Golden Layout: (https://www.golden-layout.com/)
-Material Design Lite: (https://getmdl.io/)
+* Golden Layout: (https://www.golden-layout.com/)
+* Material Design Lite: (https://getmdl.io/)
 
 Happy Coding!
